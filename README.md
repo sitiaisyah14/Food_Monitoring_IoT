@@ -11,13 +11,31 @@ Dari permasalahan itu maka dari itu diusulkan project IoT sebagai pemenuhan Proj
 
 &nbsp;
 ## Diagram Rangkaian
-<img align="left"  alt="CM" width="100%" src="https://github.com/sitiaisyah14/Food_Monitoring_IoT/blob/main/Img/Add%20a%20heading.jpg"/>
+<p align="center">
+  <img align="middle"  alt="CM" width="100%" src="https://github.com/sitiaisyah14/Food_Monitoring_IoT/blob/main/Img/Add%20a%20heading.jpg"/>
+</p>
 
 &nbsp;
 ## Komponen yang digunakan
-<img align="left"  alt="CM" width="100%" src="https://github.com/sitiaisyah14/Food_Monitoring_IoT/blob/main/Img/Komponen.jpg"/>
+<p align="center">
+  <img align="middle" alt="CM" width="50%" src="https://github.com/sitiaisyah14/Food_Monitoring_IoT/blob/main/Img/Komponen.jpg" />
+</p>
 
 &nbsp;
 ## Hasil Project
   ### Hasil Rangkaian Komponen
-  <img align="left"  alt="CM" width="100%" src="https://github.com/sitiaisyah14/Food_Monitoring_IoT/blob/main/Img/rangkaian.jpg"/>
+  <p align="center">
+    <img align="middle" alt="CM" width="50%" src="https://github.com/sitiaisyah14/Food_Monitoring_IoT/blob/main/Img/rangkaian.jpg" />
+  </p>
+
+&nbsp;
+## Tools 
+<p>
+  <img src="https://img.shields.io/badge/-Arduino%20Uno-00979D?style=flat&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-IFTTT-FF7B00?style=flat&logo=IFTTT&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ThingSpeak-00T173?style=flat&logo=thingspeak&logoColor=white" />
+</p>
+
+&nbsp;
+## Tutorial 
+**Please chat for tutorial on the account profile.**
